@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '33083'
     url: http://www.gutenberg.org/2009/agents/33083
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28022#El-Diablo
 gutenberg_issued: '2009-02-08'
 gutenberg_type: Text
 identifiers:
